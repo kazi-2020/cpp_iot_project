@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"U1",1,"PCF8574-based, 32 LCD 16 x 2 (I2C)"
+"U2",1," Arduino Uno R3"
+"PIRentry_sensor",1,"0.27 , -204.45734380631666 , -72.19163999672924  PIR Sensor"
+"Utemp_sensor",1," Temperature Sensor [TMP36]"
+"KEYPAD1",1," Keypad 4x4"
+"SERVO1",1,"Positional Micro Servo"
+"PING1",1," Ultrasonic Distance Sensor"
