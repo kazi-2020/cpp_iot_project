@@ -53,4 +53,4 @@ This Arduino code implements a smart door lock system using various sensors and 
 4. The LCD will display the status messages, and the door will open when a person is detected with the correct access code and an acceptable temperature.
 5. Adjust the access code and temperature thresholds as needed in the code.
 
-Feel free to customize the code and connections based on your specific requirements.
+This project was created and run on TINKERCAD website
